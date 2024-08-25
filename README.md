@@ -36,3 +36,11 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  ![Snake animation](https://github.com/FyslAhmd/FyslAhmd/blob/output/github-contribution-grid-snake.svg)
+  
+  <br/><br/>
+</div>
