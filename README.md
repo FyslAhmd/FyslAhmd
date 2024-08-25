@@ -40,7 +40,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![Snake animation](https://github.com/FyslAhmd/FyslAhmd/blob/output/github-contribution-grid-snake.svg)
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FyslAhmd/FyslAhmd/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/>
+  <br/><br/><br/>
 </div>
