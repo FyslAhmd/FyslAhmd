@@ -7,8 +7,8 @@
 </h1>
 <p align="center" style="font-size: 18px; max-width: 800px; margin: auto; line-height: 1.6;">
   <strong>My goal is to excel as a front-end developer</strong> by utilizing my skills in 
-  <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Tailwind CSS</strong>, and <strong>React.js</strong>.<br />
-  I am dedicated to crafting <strong>responsive</strong>, <strong>user-friendly</strong> web interfaces that enhance both <strong>user experience</strong> and <strong>performance</strong>.<br />
+  <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Tailwind CSS</strong>, and <strong>React.js</strong>.
+  I am dedicated to crafting <strong>responsive</strong>, <strong>user-friendly</strong> web interfaces that enhance both <strong>user experience</strong> and <strong>performance</strong>.
   With a strong foundation in modern web technologies and a <strong>collaborative mindset</strong>, I strive to contribute to impactful projects, 
   support team growth, and drive <strong>digital innovation</strong>.
 </p>
