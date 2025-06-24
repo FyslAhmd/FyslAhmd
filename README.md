@@ -12,7 +12,10 @@
  
  🔭 I’m currently working on **web dedelopment**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/FyslAhmd/FyslAhmd/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything <a href="mailto:info.faysal.32@gmail.com?subject=Hello%20Faysal&body=I%20wanted%20to%20reach%20out%20to%20you."
+              aria-label="Send email">
+    Here
+  </a>**
 
  </div>
 
